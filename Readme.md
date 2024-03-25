@@ -34,5 +34,5 @@ On peut ainsi tracer l'évolution de la récompense pour chaque action au premie
 Pour stabiliser ces courbes, on utilisera un taux d'apprentissage plus faible (0.007 vs 0.03)
 ![plot](./figures/lr_007.PNG)
 
-On a ici décider d'initialiser les récompenses à 0.75. Elle décroivent don avec une certaine instabilité, avant de se stabiliser et de converger.
+On a ici décidé d'initialiser les récompenses à 0.75. Elle décroivent donc avec une certaine instabilité, avant de se stabiliser et de converger.
 ![plot](./figures/init.PNG)
